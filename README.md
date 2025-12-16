@@ -1,9 +1,9 @@
-## Hi there 👋 I'm Yue Jun
+## Hi there 👋 I'm Ming Xuan Yue
 
 I’m a **Software Engineering student at McGill University** with a strong interest in **backend development and applied AI systems**.  
-I enjoy building **reliable, production-grade AI solutions** that combine **LLMs, retrieval systems, and backend engineering** to solve real business problems.
+I enjoy building **reliable AI solutions** that combine **LLMs, RAG retrieval and backend engineering** to solve real business problems.
 
-Currently, I’m working as a **Backend AI Developer Intern at Ciena**, where I focus on improving the reliability and evaluation of **multi-agent RAG systems** used for enterprise documentation search.
+Currently, I’m working as a **Backend AI Developer Intern at Ciena**, where I focus on improving the reliability and evaluation of **multi-agent RAG systems** used for cloud emulation portal.
 
 ---
 
@@ -19,7 +19,7 @@ Currently, I’m working as a **Backend AI Developer Intern at Ciena**, where I 
 - Retrieval-Augmented Generation (RAG)  
 - Multi-agent systems & agent orchestration  
 - Prompt engineering & tool calling  
-- LLM evaluation (LLM-as-a-Judge, regression testing)  
+- LLM evaluation (LLM-as-a-Judge)  
 
 ### Data & Analytics
 - Pandas, NumPy  
@@ -28,7 +28,6 @@ Currently, I’m working as a **Backend AI Developer Intern at Ciena**, where I 
 
 ### Cloud & Tools
 - Azure / OpenAI APIs  
-- HuggingFace  
 - Jupyter Notebook  
 
 ---
@@ -44,3 +43,29 @@ Currently, I’m working as a **Backend AI Developer Intern at Ciena**, where I 
 - Built automated evaluation using **LLM-as-a-Judge** and performance metrics  
 
 ➡️ *Private enterprise project — architecture and learnings documented*
+
+### Software Developer Intern  
+- Built a **RAG-powered enterprise chatbot** using **LangChain and Dify**, integrating with a **MySQL database** to retrieve customer business data and reduce manual workload for client success and strategy teams.  
+- Designed an **AI workflow automation system** using LLMs to generate **image prompts and marketing strategy prompts** from keywords and visual inputs, accelerating content creation for marketing teams.
+
+---
+
+## 🚀 Projects
+
+### Fitness Center Management Website — *Full Stack*  
+**Tech:** Java, Spring Boot, MVC, REST APIs  
+
+- Collaborated in a **5-member team** to build a fitness center management platform using a **layered MVC architecture** with Spring Boot.  
+- Applied **dependency injection and inversion of control** to decouple components, improving maintainability and extensibility.  
+- Designed **RESTful APIs** with structured exception handling and **request/response DTOs** to ensure clean frontend–backend communication.
+
+---
+
+### Fred (Financial Planning & Budget Tracking System) — *Full Stack*  
+**Tech:** Node.js, Prisma, PostgreSQL, REST APIs  
+
+- Collaborated in a **7-member agile team** following **Scrum methodology** with 2-week sprints and daily stand-ups; served as **Scrum Master** to coordinate progress.  
+- Architected backend infrastructure using **Node.js and Prisma ORM** with a **PostgreSQL database**, implementing secure RESTful APIs for financial data management.  
+- Ensured **ACID compliance** for all financial transactions and supported real-time budget calculations.
+
+
